@@ -1,6 +1,6 @@
 # R-Rajalakshmi.github.io
 # Personal Portfolio 🔥
-> (https://yadnikis.github.io/yadniki.github.io/)
+> (https://r-rajalakshmi.github.io/Resume-Portfolio/)
 
 :star: Star me on GitHub — it helps!
 
