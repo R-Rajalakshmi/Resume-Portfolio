@@ -6,23 +6,8 @@
 
 
 [![Website shields.io](https://img.shields.io/badge/website-up-yellow)](https://github.com/R-Rajalakshmi)
-[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/rajalakshmi-r-083544219/)
-
-
-### Website Preview
-#### Home Page
-<img src="website_images/home'.png" width="900">
-
-
-#### About Page
-<img src="website_images/about.png" width="900">
-<img src="website_images/about2.png" width="900">
-
-
-#### Projects Page
-<img src="website_images/portfolio.png" width="900">
+[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/rajalakshmi-r-083544219/)]
   
-
 
 :star: Star me on GitHub — it helps!
 
